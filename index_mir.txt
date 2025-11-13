@@ -12,7 +12,7 @@ und mit jedem einzelnen ist eine kleine Geschichte und ein Abschnitt meines Lebe
 
 ### Mein erstes Rennrad
 
-![](Schauff_Rennrad.jpg)
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Schauff_Rennrad.jpg)
 
 An einem Abend, es muß ungefähr 1988 gewesen sein, kam Bernadette von der Arbeit nach Hause und hatte eine
 Überraschung für mich. Sie hatte sich beim Zweirad- und Nähmaschinenprofi Büld in Lohne beraten lassen und
