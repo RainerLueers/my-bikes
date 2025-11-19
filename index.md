@@ -31,16 +31,13 @@ der Rahmen rot. Ich habe mich später für das Umlackieren entschieden und ein p
 gewählt.  
 Das Foto wurde von einem professionellen Fotografen am Straßenrand beim Jedermannrennen
 Telft-Bastogne-Telft (bekannt als Lüttich-Bastogne-Lüttich) aufgenommen.  
-
+___
 
 ### Rickert - Last Edition
 #### ein Design-KLassiker
 
 ![](Rickertrad_Campa1.jpg)  
 Rickert - Campagnolo
-
-![](Rainer_Rickert.JPG)  
-Rickert - Last Edition
 
 1951 machte sich Rickert mit einer eigenen Werkstatt zur Fertigung von Rahmen für 
 Rennräder selbständig. In seiner Werkstatt in Dortmund-Eving wurden in Handarbeit 
@@ -60,3 +57,25 @@ Heimatstadt Fröndenberg/Ruhr. Von ihm gefertigte Rahmen
 sind begehrte Sammlerstücke. 
 
 <a href="https://web.archive.org/web/20150924160534/http://www.derwesten.de/wp/staedte/froendenberg/radsport-legenden-mit-goldrahmen-id2092985.html" target="_blank" rel="noopener noreferrer" >Radsport-Legenden mit Goldrahmen</a>
+
+
+![](Rainer_Rickert.JPG)  
+Meine Maschine (Rickert - Last Edition)  
+___
+
+### Müsing - Millennium
+#### Must Have - Aluminium
+
+![](Müsing_Millennium.jpg)  
+Müsing Millennium (nicht mein bike)
+
+
+
+![](Müsing_Rainer_02.jpg)  
+Mein Müsing Millennium
+
+
+![](Müsing_Rainer_01.jpg)  
+Mein Müsing Millennium
+
+
