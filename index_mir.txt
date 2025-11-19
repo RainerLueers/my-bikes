@@ -15,7 +15,7 @@ Leider habe ich bei einigen Rädern keine oder nur schlechte Fotos gefunden.
 ### Mein erstes Rennrad
 #### oder der Beginn einer Leidenschaft
 
-![](Schauff_Rennrad.jpg)  
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Schauff_Rennrad.jpg)  
 Schauff Rennrad
 
 An einem späten Nachmittag, es muß ungefähr 1988 gewesen sein, kam Bernadette von der
@@ -36,10 +36,10 @@ Telft-Bastogne-Telft (bekannt als Lüttich-Bastogne-Lüttich) aufgenommen.
 ### Rickert - Last Edition
 #### ein Design-KLassiker
 
-![](Rickertrad_Campa1.jpg)  
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Rickertrad_Campa1.jpg)  
 Rickert - Campagnolo
 
-![](Rainer_Rickert.JPG)  
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Rainer_Rickert.JPG)  
 Rickert - Last Edition
 
 1951 machte sich Rickert mit einer eigenen Werkstatt zur Fertigung von Rahmen für 
