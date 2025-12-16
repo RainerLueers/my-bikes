@@ -1,4 +1,5 @@
 * <a href="https://rainerlueers.github.io/sophies-yard-chronicle/">Startseite</a>
+* <a href="https://rainerlueers.github.io/my-tours/">Meine Touren</a>
 
 ---
 title: Meine Räder
