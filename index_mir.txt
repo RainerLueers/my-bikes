@@ -44,7 +44,7 @@ ___
 ![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Rickertrad_Campa1.jpg)  
 Rickert - Campagnolo  
 
-<img src="Rickert_Logo.jpg" align=left hspace=20 vspace=20>1951 machte sich Rickert mit einer eigenen Werkstatt zur Fertigung von Rahmen für 
+<img src="Rickert_Logo.jpg" align=left>1951 machte sich Rickert mit einer eigenen Werkstatt zur Fertigung von Rahmen für 
 Rennräder selbständig. In seiner Werkstatt in Dortmund-Eving wurden in Handarbeit 
 Rahmen in den handelsüblichen Rahmengrößen sowie individuell modifizierte 
 Sonderanfertigungen gebaut. Es handelte sich bei Rickert-Rahmen ausschließlich 
@@ -75,7 +75,7 @@ ___
 ![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Müsing_Millennium.jpg)  
 Müsing Millennium (nicht mein bike)
 
-<img src="Müsing_Logo.png" align=left hspace=20 vspace=20>Müsing ist ein deutscher Hersteller von Fahrrädern. 
+<img src="Müsing_Logo.png" align=left>Müsing ist ein deutscher Hersteller von Fahrrädern. 
 Sitz der Firma ist in Freirachdorf im Westerwald zwischen Frankfurt und Köln.
 Die Anfänge der Produktion von Fahrrädern unter dem Namen Müsing gehen auf die 1980er und 1990er Jahre zurück. 
 Seinerzeit produzierte Bernd Müsing, der Student der TU Braunschweig, begeisterter Radsportler und Mitinhaber 
@@ -96,8 +96,13 @@ ___
 ### Univega - Via
 #### Solides Arbeitsgerät - (Aluminiumrahmen - Carbongabel)
 
-<img src="Univega_Logo.jpeg" align=left hspace=20 vspace=20>Dieses ausserordentlich zuverlässige Rennrad ist aktuell im Einsatz.
+<div class="inline-container">
+  <img src="Univega_Logo.jpeg" alt="Univega Logo" class="inline-bild">
+  <span class="inline-text">Dieses ausserordentlich zuverlässige Rennrad ist aktuell im Einsatz.
 Ich habe es im Jahr 2024 bei 2 Etappenfahrten über je 450 km als Bike Packing Maschine verwendet. Heute ist es 
-auf dem Smart-Trainer als Indoor-Trainingsrad montiert und verrichtet zuverlässig seine Dienste.<br clear=all> 
+auf dem Smart-Trainer als Indoor-Trainingsrad montiert und verrichtet zuverlässig seine Dienste.</span>
+</div>
+
+<br clear=all> 
 
 ![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Univega_Via_01.jpg)
