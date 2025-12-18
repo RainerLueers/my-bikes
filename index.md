@@ -65,6 +65,7 @@ sind begehrte Sammlerstücke.
 
 ![](Rainer_Rickert.JPG)  
 Meine Maschine (Rickert - Last Edition)  
+
 ___
 
 ### Müsing - Millennium
@@ -73,16 +74,27 @@ ___
 ![](Müsing_Millennium.jpg)  
 Müsing Millennium (nicht mein bike)
 
+<img src="Müsing_Logo.png" align=left>Müsing ist ein deutscher Hersteller von Fahrrädern. 
+Sitz der Firma ist in Freirachdorf im Westerwald zwischen Frankfurt und Köln.
+Die Anfänge der Produktion von Fahrrädern unter dem Namen Müsing gehen auf die 1980er und 1990er Jahre zurück. 
+Seinerzeit produzierte Bernd Müsing, der Student der TU Braunschweig, begeisterter Radsportler und Mitinhaber 
+eines Radladens in Braunschweig war, zusammen mit Volker Becker die ersten Fahrräder aus Aluminium unter 
+Nutzung der WIG-Schweisstechnik und baute die Rahmenproduktion in Braunschweig auf.  
 
-![](Müsing_Rainer_02.jpg)  
-Mein Müsing Millennium
+
+<img src="Müsing_Rainer_02.jpg" align=left>Mein Müsing Millennium im Einsatz bei einer Gruppenfahrt in Ketschendorf, Franken.
 
 
 ![](Müsing_Rainer_01.jpg)  
-Mein Müsing Millennium
+Mein Müsing Millennium  
+
 ___
 
 ### Univega - Via
 #### Solides Arbeitsgerät - (Aluminiumrahmen - Carbongabel)
+
+<img src="Univega_Logo.jpeg" align=left>Dieses ausserordentlich zuverlässige Rennrad ist aktuell im Einsatz.
+Ich habe es im Jahr 2024 bei 2 Etappenfahrten über je 450 km als Bike Packing Maschine verwendet. Heute ist es 
+auf dem Smart-Trainer als Indoor-Trainingsrad montiert und verrichtet zuverlässig seine Dienste.
 
 ![](Univega_Via_01.jpg)
