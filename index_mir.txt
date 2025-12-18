@@ -16,10 +16,10 @@ Leider habe ich bei einigen Rädern keine oder nur schlechte Fotos gefunden.
 ### Mein erstes Rennrad - Schauff
 #### oder der Beginn einer Leidenschaft
 
-![](Schauff_Rennrad.jpg)  
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Schauff_Rennrad.jpg)  
 Schauff Rennrad
 
-![](SchauffLogo1989.jpg)  
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/SchauffLogo1989.jpg)  
 Logo 1989
 
 An einem späten Nachmittag, es muß ungefähr 1988 gewesen sein, kam Bernadette von der
@@ -41,7 +41,7 @@ ___
 ### Rickert - Last Edition
 #### ein Design-KLassiker
 
-![](Rickertrad_Campa1.jpg)  
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Rickertrad_Campa1.jpg)  
 Rickert - Campagnolo  
 
 <img src="Rickert_Logo.jpg" align=left>1951 machte sich Rickert mit einer eigenen Werkstatt zur Fertigung von Rahmen für 
@@ -63,7 +63,7 @@ sind begehrte Sammlerstücke.
 
 <a href="https://web.archive.org/web/20150924160534/http://www.derwesten.de/wp/staedte/froendenberg/radsport-legenden-mit-goldrahmen-id2092985.html" target="_blank" rel="noopener noreferrer" >Radsport-Legenden mit Goldrahmen</a>
 
-![](Rainer_Rickert.JPG)  
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Rainer_Rickert.JPG)  
 Meine Maschine (Rickert - Last Edition)  
 
 ___
@@ -72,7 +72,7 @@ ___
 ### Müsing - Millennium
 #### Must Have - Aluminium
 
-![](Müsing_Millennium.jpg)  
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Müsing_Millennium.jpg)  
 Müsing Millennium (nicht mein bike)
 
 <img src="Müsing_Logo.png" align=left>Müsing ist ein deutscher Hersteller von Fahrrädern. 
@@ -86,7 +86,7 @@ Nutzung der WIG-Schweisstechnik und baute die Rahmenproduktion in Braunschweig a
 <img src="Müsing_Rainer_02.jpg" align=left>Mein Müsing Millennium im Einsatz bei einer Gruppenfahrt in Ketschendorf, Franken.
 
 
-![](Müsing_Rainer_01.jpg)  
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Müsing_Rainer_01.jpg)  
 Mein Müsing Millennium  
 ___  
 <br clear=all> 
@@ -98,4 +98,4 @@ ___
 Ich habe es im Jahr 2024 bei 2 Etappenfahrten über je 450 km als Bike Packing Maschine verwendet. Heute ist es 
 auf dem Smart-Trainer als Indoor-Trainingsrad montiert und verrichtet zuverlässig seine Dienste.<br clear=all> 
 
-![](Univega_Via_01.jpg)
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Univega_Via_01.jpg)
