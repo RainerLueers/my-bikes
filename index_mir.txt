@@ -16,10 +16,10 @@ Leider habe ich bei einigen Rädern keine oder nur schlechte Fotos gefunden.
 ### Mein erstes Rennrad - Schauff
 #### oder der Beginn einer Leidenschaft
 
-![](Schauff_Rennrad.jpg)  
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Schauff_Rennrad.jpg)  
 Schauff Rennrad
 
-![](SchauffLogo1989.jpg)  
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/SchauffLogo1989.jpg)  
 Logo 1989
 
 An einem späten Nachmittag, es muß ungefähr 1988 gewesen sein, kam Bernadette von der
@@ -40,7 +40,7 @@ ___
 ### Rickert - Last Edition
 #### ein Design-KLassiker
 
-![](Rickertrad_Campa1.jpg)  
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Rickertrad_Campa1.jpg)  
 Rickert - Campagnolo
 
 <img src="Rickert_Logo.jpg" align=left>1951 machte sich Rickert mit einer eigenen Werkstatt zur Fertigung von Rahmen für 
@@ -63,26 +63,26 @@ sind begehrte Sammlerstücke.
 <a href="https://web.archive.org/web/20150924160534/http://www.derwesten.de/wp/staedte/froendenberg/radsport-legenden-mit-goldrahmen-id2092985.html" target="_blank" rel="noopener noreferrer" >Radsport-Legenden mit Goldrahmen</a>
 
 
-![](Rainer_Rickert.JPG)  
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Rainer_Rickert.JPG)  
 Meine Maschine (Rickert - Last Edition)  
 ___
 
 ### Müsing - Millennium
 #### Must Have - Aluminium
 
-![](Müsing_Millennium.jpg)  
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Müsing_Millennium.jpg)  
 Müsing Millennium (nicht mein bike)
 
 
-![](Müsing_Rainer_02.jpg)  
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Müsing_Rainer_02.jpg)  
 Mein Müsing Millennium
 
 
-![](Müsing_Rainer_01.jpg)  
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Müsing_Rainer_01.jpg)  
 Mein Müsing Millennium
 ___
 
 ### Univega - Via
 #### Solides Arbeitsgerät - (Aluminiumrahmen - Carbongabel)
 
-![](Univega_Via_01.jpg)
+![](/home/rainer/Dokumente/GitHub_Repositories/my-bikes/Univega_Via_01.jpg)
