@@ -96,13 +96,8 @@ ___
 ### Univega - Via
 #### Solides Arbeitsgerät - (Aluminiumrahmen - Carbongabel)
 
-<div class="inline-container">
-  <img src="Univega_Logo.jpeg" alt="Univega Logo" class="inline-bild">
-  <span class="inline-text">Dieses ausserordentlich zuverlässige Rennrad ist aktuell im Einsatz.
+<img src="Univega_Logo.png" align=left>Dieses ausserordentlich zuverlässige Rennrad ist aktuell im Einsatz.
 Ich habe es im Jahr 2024 bei 2 Etappenfahrten über je 450 km als Bike Packing Maschine verwendet. Heute ist es 
-auf dem Smart-Trainer als Indoor-Trainingsrad montiert und verrichtet zuverlässig seine Dienste.</span>
-</div>
-
-<br clear=all> 
+auf dem Smart-Trainer als Indoor-Trainingsrad montiert und verrichtet zuverlässig seine Dienste.<br clear=all> 
 
 ![](Univega_Via_01.jpg)
