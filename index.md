@@ -83,7 +83,7 @@ eines Radladens in Braunschweig war, zusammen mit Volker Becker die ersten Fahrr
 Nutzung der WIG-Schweisstechnik und baute die Rahmenproduktion in Braunschweig auf.<br clear=all> 
 
 
-<img src="Müsing_Rainer_02.jpg" align=left>Mein Müsing Millennium im Einsatz bei einer Gruppenfahrt in Ketschendorf, Franken.
+<img src="Müsing_Rainer_02.png" align=left>Mein Müsing Millennium im Einsatz bei einer Gruppenfahrt in Ketschendorf, Franken.
 
 
 ![](Müsing_Rainer_01.jpg)  
