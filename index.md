@@ -107,3 +107,21 @@ ___
 ![](Strattos_01.jpg)  
 
 Polygon - Strattos
+
+___
+
+### Seraph - TT-X42 - Wheeltop 24 Speed
+#### Vollcarbon mit elektronischer Schaltgruppe
+
+![](Machina_01.jpg)
+
+TT-X42 alias Machina
+
+___
+
+### BXT 135
+#### Gravel Bike - Vollcarbon
+
+
+
+BXT 135
