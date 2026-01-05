@@ -68,7 +68,6 @@ Meine Maschine (Rickert - Last Edition)
 
 ___
 
-
 ### Müsing - Millennium
 #### Must Have - Aluminium
 
@@ -91,8 +90,6 @@ Mein Müsing Millennium
 
 ___
 
-<br clear=all> 
-
 ### Univega - Via
 #### Solides Arbeitsgerät - (Aluminiumrahmen - Carbongabel)
 
@@ -101,3 +98,12 @@ Ich habe es im Jahr 2024 bei 2 Etappenfahrten über je 450 km als Bike Packing M
 auf dem Smart-Trainer als Indoor-Trainingsrad montiert und verrichtet zuverlässig seine Dienste.<br clear=all> 
 
 ![](Univega_Via_01.jpg)
+
+___
+
+### Polygon - Strattos
+#### Die erste Rennmaschine aus Carbon
+
+![](Strattos_01.jpg)  
+
+Polygon - Strattos
