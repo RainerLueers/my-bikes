@@ -41,8 +41,8 @@ ___
 ### Rickert - Last Edition
 #### ein Design-KLassiker
 
-![](Rickertrad_Campa1.jpg)  
-Rickert - Campagnolo  
+![](Rickert_original.jpg)  
+Rickert - Campagnolo Super Rekord
 
 <img src="Rickert_Logo.jpg" align=left>1951 machte sich Rickert mit einer eigenen Werkstatt zur Fertigung von Rahmen für 
 Rennräder selbständig. In seiner Werkstatt in Dortmund-Eving wurden in Handarbeit 
@@ -63,8 +63,8 @@ sind begehrte Sammlerstücke.
 
 <a href="https://web.archive.org/web/20150924160534/http://www.derwesten.de/wp/staedte/froendenberg/radsport-legenden-mit-goldrahmen-id2092985.html" target="_blank" rel="noopener noreferrer" >Radsport-Legenden mit Goldrahmen</a>
 
-![](Rainer_Rickert.JPG)  
-Meine Maschine (Rickert - Last Edition)  
+![](Rickert_race.jpg)  
+Rickert Race (Shimano 600)  
 
 ___
 
@@ -122,6 +122,10 @@ ___
 ### BXT 135
 #### Gravel Bike - Vollcarbon
 
-
+![](BXT_solo.jpg)
 
 BXT 135
+
+![](BXT_Einsatz.jpg)
+
+Erster Einsatz
