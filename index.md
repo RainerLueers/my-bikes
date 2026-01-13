@@ -101,26 +101,55 @@ auf dem Smart-Trainer als Indoor-Trainingsrad montiert und verrichtet zuverläss
 
 ___
 
-### Polygon - Strattos
+### Polygon - Strattos S8D
 #### Die erste Rennmaschine aus Carbon
+
+![](polygon_logo.webp)
+
 
 ![](Strattos_01.jpg)  
 
-Polygon - Strattos
+Polygon - Strattos S8D
+
+Nachdem ich 2023 mein ComeBack auf dem Rennradsattel feiern durfte, war es an der Zeit, das Material auf einen angemessen aktuellen Stand zu bringen.
+Ich habe mich für eine preislich ausgewogenen Variante aus Indosien entschieden.
+Das Bike ist mit der SHIMANO ULTEGRA R8000 11-fach Komplettgruppe ausgestattet.
+Polygon Bikes ist der Markenname einer Fahrradmarke des indonesischen Fahrradherstellers PT Insera Sena mit Sitz in Sidoarjo, Ostjava.
+
+Wie gewohnt habe ich die Maschine für mich aufgerüstet:
+
+* Sattel und Sattelstütze Carbon
+* Lenker Monocock Carbon
+* Laufradsatz Elite Carbon
+* Powermeter Magene PES P515
 
 ___
 
 ### Seraph - TT-X42 - Wheeltop 24 Speed
 #### Vollcarbon mit elektronischer Schaltgruppe
 
+![](seraph_logo.jpg)
+
 ![](Machina_01.jpg)
 
 TT-X42 alias Machina
+
+Kaum zu glauben aber wahr!
+Dieses Rennrad kostet bei AliExpress incl. Versand 1200€.
+Allein die hervorragende eSchaltgruppe mit hydraulischen Bremsen in Carbon kostet ca. 750€.
+
+Die Aufrüstung beinhaltete dann:
+
+* Sattel Carbon
+* Laufradsatz Elite Carbon
+* Powermeter Magene PES P515
 
 ___
 
 ### BXT 135
 #### Gravel Bike - Vollcarbon
+
+![](bxt_logo.jpg)
 
 ![](BXT_solo.jpg)
 
@@ -129,3 +158,21 @@ BXT 135
 ![](BXT_Einsatz.jpg)
 
 Erster Einsatz
+
+Dieses extrem fahrfreundliche Gravel Bike habe ich komplett selbst aufgebaut. Zunächst wurden die von den vorherigen Rädern übriggebliebenen Teile verbaut.
+
+Darunter also:
+
+* Lenker Monocock Carbon
+* Laufradsatz (TT X42) Carbon
+* Tretkurbel (TT X42)
+
+Neuteile waren zunächst:
+
+* Shimano 105 R7000 (long cage) 11-fach
+* ZTTO Scheibenbremse hybrid (mechanisch + hydraulisch)
+* Powermeter Magene PES P515
+* Sattelstütze Carbon
+* Sattel Carbon
+
+___
