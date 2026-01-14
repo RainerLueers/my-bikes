@@ -99,19 +99,29 @@ auf dem Smart-Trainer als Indoor-Trainingsrad montiert und verrichtet zuverläss
 
 ![](Univega_Via_01.jpg)
 
+Univega Via
+___
+
+### Bianchi - Celeste
+#### Phönix aus der Asche
+
+![](Bianchi_fake.jpg) 
+
+Bianchi (Restauration und Migration) 
+
+
+<img src="Bianchi_logo.png" align=left>Im Sommer 2024 fiel mir das alte Rennrad meines Bruders Peter auf, wie es praktisch verwarlost in der Garage am Haken hing. Mit dem violetten Drahtesel aus Reynoldsrohren gelötet hatte Peter so manch einen klassischen Anstieg der Gran Tours bezwungen. Nach genauerer Betrachtung entschloss ich mich es mitzunehmen und einer Verjüngungskur zu unterziehen. Da ich aber schon immer mit dem Bianchi Celeste geliebäugelt hatte, wurde aus dem Franzosen ein Italiener gemacht. Mir gefällts :-)<br clear=all> 
+
 ___
 
 ### Polygon - Strattos S8D
 #### Die erste Rennmaschine aus Carbon
 
-![](polygon_logo.webp)
-
-
 ![](Strattos_01.jpg)  
 
 Polygon - Strattos S8D
 
-Nachdem ich 2023 mein ComeBack auf dem Rennradsattel feiern durfte, war es an der Zeit, das Material auf einen angemessen aktuellen Stand zu bringen.
+<img src="Polygon_Bikes_logo.png" align=left>Nachdem ich 2023 mein ComeBack auf dem Rennradsattel feiern durfte, war es an der Zeit, das Material auf einen angemessen aktuellen Stand zu bringen.
 Ich habe mich für eine preislich ausgewogenen Variante aus Indosien entschieden.
 Das Bike ist mit der SHIMANO ULTEGRA R8000 11-fach Komplettgruppe ausgestattet.
 Polygon Bikes ist der Markenname einer Fahrradmarke des indonesischen Fahrradherstellers PT Insera Sena mit Sitz in Sidoarjo, Ostjava.
@@ -122,21 +132,21 @@ Wie gewohnt habe ich die Maschine für mich aufgerüstet:
 * Lenker Monocock Carbon
 * Laufradsatz Elite Carbon
 * Powermeter Magene PES P515
+<br clear=all> 
 
 ___
 
 ### Seraph - TT-X42 - Wheeltop 24 Speed
 #### Vollcarbon mit elektronischer Schaltgruppe
 
-![](seraph_logo.jpg)
-
 ![](Machina_01.jpg)
 
 TT-X42 alias Machina
 
-Kaum zu glauben aber wahr!
+<img src="seraph_logo.png" align=left>Kaum zu glauben aber wahr!
 Dieses Rennrad kostet bei AliExpress incl. Versand 1200€.
 Allein die hervorragende eSchaltgruppe mit hydraulischen Bremsen in Carbon kostet ca. 750€.
+<br clear=all> 
 
 Die Aufrüstung beinhaltete dann:
 
@@ -159,7 +169,8 @@ BXT 135
 
 Erster Einsatz
 
-Dieses extrem fahrfreundliche Gravel Bike habe ich komplett selbst aufgebaut. Zunächst wurden die von den vorherigen Rädern übriggebliebenen Teile verbaut.
+<img src="bxt_logo.png" align=left>Dieses extrem fahrfreundliche Gravel Bike habe ich komplett selbst aufgebaut. Zunächst wurden die von den vorherigen Rädern übriggebliebenen Teile verbaut.
+<br clear=all> 
 
 Darunter also:
 
