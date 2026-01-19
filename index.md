@@ -187,3 +187,5 @@ Neuteile waren zunächst:
 * Sattel Carbon
 
 ___
+
+<iframe allowtransparency='true' frameborder='0' height='454' scrolling='no' src='https://www.strava.com/clubs/1923354/latest-rides/58f580f2a0c923b8f29c2d53a9dda1aef0a99a9c?show_rides=true' width='300'></iframe>
