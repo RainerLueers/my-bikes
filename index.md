@@ -100,6 +100,7 @@ auf dem Smart-Trainer als Indoor-Trainingsrad montiert und verrichtet zuverläss
 ![](Univega_Via_01.jpg)
 
 Univega Via
+
 ___
 
 ### Bianchi - Celeste
